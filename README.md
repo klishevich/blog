@@ -1,0 +1,2 @@
+# blog
+Data Visualization Blog
