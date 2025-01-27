@@ -22,7 +22,8 @@
             "./src/types", "./node_modules/@types"],
         "esModuleInterop": false,
         "skipLibCheck": false,
-        "forceConsistentCasingInFileNames": true
+        "forceConsistentCasingInFileNames": true,
+        "allowSyntheticDefaultImports": true
     },
     "include": [
         "src/**/*"
